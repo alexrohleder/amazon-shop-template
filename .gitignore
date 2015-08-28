@@ -1,4 +1,0 @@
-bower_components/
-node_modules/
-src/sass/cached/
-dist/**/*.{html,js,css}
